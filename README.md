@@ -14,6 +14,7 @@ to make them publicly available and trackable.
 - [ ] Implement a small project in [Elm][], [PureScript][] or [ClojureScript][]/[Om][]
     - possible idea: web-based UI for verifying GitHub activity goals above
 - [x] ~~Make my goals publicly available / trackable on my GitHub~~
+- [ ] Finish reading [JavaScript Allongé](https://leanpub.com/javascriptallongesix)
 
 ## 2015
 
