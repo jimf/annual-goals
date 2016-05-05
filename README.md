@@ -8,7 +8,9 @@ to make them publicly available and trackable.
 - [ ] Active public GitHub involvement (ongoing)
     - active at least once per week (52 in the year)
     - contribution to open source projects at least half of this time (once every other week, 26 / year)
-- [ ] Give at least 2 meetup talks (likely [BucksCoJS][])
+- [x] ~~Give at least 2 meetup talks (likely [BucksCoJS][])~~
+    - https://speakerdeck.com/jimf/a-look-at-es6-promises
+    - https://speakerdeck.com/jimf/intro-to-functional-style-programming-in-js
 - [ ] Give at least 1 tutorial talk at work
 - [ ] Attend 1 conference (TBD)
 - [ ] Implement a small project in [Elm][], [PureScript][] or [ClojureScript][]/[Om][]
