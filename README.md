@@ -28,7 +28,6 @@ _Note: 2015 is backfilled and incomplete._
 - [x] ~~Present at [BucksCoJS][] meetup roughly once per quarter on average~~
     - [Things You'll Love About ES6](https://speakerdeck.com/jimf/things-youll-love-about-es6)
     - [Faking REST APIs in Under 30 Seconds](https://speakerdeck.com/jimf/faking-rest-apis-in-under-30-seconds)
-    - [A Look at ES6 Promises](https://speakerdeck.com/jimf/a-look-at-es6-promises)
 
 [AWeber]: https://www.aweber.com
 [BucksCoJS]: http://www.meetup.com/Bucks-Co-Js/
