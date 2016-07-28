@@ -9,8 +9,8 @@ to make them publicly available and trackable.
     - active at least once per week (on average)
     - contribution to open source projects roughly half of this time
 - [x] ~~Give at least 2 meetup talks (likely [BucksCoJS][])~~
-    - https://speakerdeck.com/jimf/a-look-at-es6-promises
-    - https://speakerdeck.com/jimf/intro-to-functional-style-programming-in-js
+    - [A Look at ES6 Promises](https://speakerdeck.com/jimf/a-look-at-es6-promises)
+    - [Intro to Functional Style Programming in JS](https://speakerdeck.com/jimf/intro-to-functional-style-programming-in-js)
 - [x] ~~Give at least 1 tutorial talk at work~~
     - Actively running a [PureScript Lunch-n-Learn](https://github.com/jimf/purescript-lunchnlearn) weekly
 - [ ] Attend 1 conference
