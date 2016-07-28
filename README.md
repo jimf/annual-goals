@@ -6,13 +6,15 @@ to make them publicly available and trackable.
 ## 2016
 
 - [ ] Active public GitHub involvement (ongoing)
-    - active at least once per week (52 in the year)
-    - contribution to open source projects at least half of this time (once every other week, 26 / year)
+    - active at least once per week (on average)
+    - contribution to open source projects roughly half of this time
 - [x] ~~Give at least 2 meetup talks (likely [BucksCoJS][])~~
     - https://speakerdeck.com/jimf/a-look-at-es6-promises
     - https://speakerdeck.com/jimf/intro-to-functional-style-programming-in-js
-- [ ] Give at least 1 tutorial talk at work
-- [ ] Attend 1 conference (TBD)
+- [x] ~~Give at least 1 tutorial talk at work~~
+    - Actively running a [PureScript Lunch-n-Learn](https://github.com/jimf/purescript-lunchnlearn) weekly
+- [ ] Attend 1 conference
+    - will be attending [StrangeLoop](http://www.thestrangeloop.com/) Sept. 15-17
 - [ ] Implement a small project in [Elm][], [PureScript][] or [ClojureScript][]/[Om][]
     - possible idea: web-based UI for verifying GitHub activity goals above
 - [x] ~~Make my goals publicly available / trackable on my GitHub~~
