@@ -5,7 +5,7 @@ to make them publicly available and trackable.
 
 ## 2016
 
-- [x] Active public GitHub involvement (ongoing)
+- [x] ~~Active public GitHub involvement (ongoing)~~
     - active at least once per week (on average)
     - contribution to open source projects roughly half of this time
 - [x] ~~Give at least 2 meetup talks (likely [BucksCoJS][])~~
@@ -14,7 +14,7 @@ to make them publicly available and trackable.
     - [Globalizing JS Applications](https://speakerdeck.com/jimf/globalizing-js-applications)
 - [x] ~~Give at least 1 tutorial talk at work~~
     - Actively running a [PureScript Lunch-n-Learn](https://github.com/jimf/purescript-lunchnlearn) weekly
-- [x] Attend 1 conference
+- [x] ~~Attend 1 conference~~
     - attended [StrangeLoop](http://www.thestrangeloop.com/) Sept. 15-17
 - [x] Implement a small project in [Elm][], [PureScript][] or [ClojureScript][]/[Om][]
     - implemented a number of small projects in PureScript
