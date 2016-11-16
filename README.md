@@ -16,8 +16,8 @@ to make them publicly available and trackable.
     - Actively running a [PureScript Lunch-n-Learn](https://github.com/jimf/purescript-lunchnlearn) weekly
 - [x] ~~Attend 1 conference~~
     - attended [StrangeLoop](http://www.thestrangeloop.com/) Sept. 15-17
-- [x] Implement a small project in [Elm][], [PureScript][] or [ClojureScript][]/[Om][]
-    - implemented a number of small projects in PureScript
+- [x] ~~Implement a small project in [Elm][], [PureScript][] or [ClojureScript][]/[Om][]~~
+    - implemented a number of small projects in PureScript during my [PureScript Lunch-n-Learn](https://github.com/jimf/purescript-lunchnlearn)
 - [x] ~~Make my goals publicly available / trackable on my GitHub~~
 - [x] ~~Finish reading [JavaScript Allongé](https://leanpub.com/javascriptallongesix)~~
 
